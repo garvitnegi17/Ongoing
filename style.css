@@ -1,0 +1,18 @@
+.A{background-color:black;
+   width:infinite;
+   height:70px;}
+*{margin:0px;
+  padding:0px;}
+#C{color:white;
+   font-size:50px;
+   margin-left:20px;
+   margin-top:10px;}
+#B{color:white;
+   background-color:red;
+   height:35px;
+   width:100px;
+   margin-top:15px;
+   margin-right:20px;
+  }
+.A{display:flex;
+  justify-content:space-between;}
