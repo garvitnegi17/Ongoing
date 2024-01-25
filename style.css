@@ -16,3 +16,8 @@
   }
 .A{display:flex;
   justify-content:space-between;}
+.D{
+  background-image: url('your-image-url.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
