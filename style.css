@@ -17,7 +17,7 @@
 .A{display:flex;
   justify-content:space-between;}
 .D{
-  background-image: url('your-image-url.jpg');
+  background-image: url('Background image.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
