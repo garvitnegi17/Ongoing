@@ -20,4 +20,6 @@
   background-image: url('Background image.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-}
+  width:2352px;
+   height:1760px;}
+body {background-color:black;}
