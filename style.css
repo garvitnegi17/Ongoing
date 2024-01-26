@@ -1,24 +1,30 @@
 .A{background-color:black;
    width:infinite;
-   height:70px;}
+   height:70px;
+}
 *{margin:0px;
-  padding:0px;}
+  padding:0px;
+ }
 #C{color:white;
    font-size:50px;
    margin-left:20px;
-   margin-top:10px;}
-
-
+   margin-top:10px;
+}
 .D{
   background-image: url('Background image.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   width:980px;
-   height:1760px;}
-body {background-color:black;}
+   height:1760px;
+}
+body {background-color:black;
+   }
 .E{width:250px;
-   height:250px:}
+   height:250px;
+}
+
 #B{color:aqua;
    font-size:80px;
-   font-family:Garamond;}
+   font-family:Garamond;
+}
 
