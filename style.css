@@ -2,7 +2,7 @@
    width:infinite;
    height:70px;
    display:flex;
-   justify-contrnt:flex-start;
+   justify-contrnt:space-evenly;
    }
 *{margin:0px;
   padding:0px;}
