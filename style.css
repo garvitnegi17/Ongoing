@@ -1,6 +1,7 @@
 .A{background-color:black;
    width:infinite;
-   height:70px;}
+   height:70px;
+   display:inline-block;}
 *{margin:0px;
   padding:0px;}
 #C{color:white;
