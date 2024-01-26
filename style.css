@@ -1,7 +1,7 @@
 .A{background-color:black;
    width:infinite;
    height:70px;
-   display:inline-block;}
+   }
 *{margin:0px;
   padding:0px;}
 #C{color:white;
@@ -27,4 +27,5 @@ body {background-color:black;}
    height:250px:}
 #F{font-family:cursive;
    font-size:60px;
-   color:aqua;}
+   color:aqua;
+   display:inline-block;}
