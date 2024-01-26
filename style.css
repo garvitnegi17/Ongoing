@@ -7,13 +7,13 @@
    font-size:50px;
    margin-left:20px;
    margin-top:10px;}
-#B{color:white;
-   background-color:red;
+.B{color:black;
+   background-color:white;
    height:35px;
-   width:100px;
+   width:300px;
    margin-top:15px;
    margin-right:20px;
-  }
+   font-family:roboto; }
 .A{display:flex;
   justify-content:space-between;}
 .D{
