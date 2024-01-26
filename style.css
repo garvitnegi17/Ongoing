@@ -8,13 +8,7 @@
    font-size:50px;
    margin-left:20px;
    margin-top:10px;}
-.B{color:black;
-   background-color:white;
-   height:35px;
-   width:300px;
-   margin-top:15px;
-   margin-right:20px;
-   font-family:roboto; }
+
 
 .D{
   background-image: url('Background image.jpg');
@@ -25,7 +19,4 @@
 body {background-color:black;}
 .E{width:250px;
    height:250px:}
-#F{font-family:cursive;
-   font-size:60px;
-   color:aqua;
-   display:inline-block;}
+
