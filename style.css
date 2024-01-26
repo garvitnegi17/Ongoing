@@ -1,9 +1,6 @@
 .A{background-color:black;
    width:infinite;
-   height:70px;
-   display:flex;
-   justify-contrnt:space-evenly;
-   }
+   height:70px;}
 *{margin:0px;
   padding:0px;}
 #C{color:white;
@@ -21,6 +18,5 @@
 body {background-color:black;}
 .E{width:250px;
    height:250px:}
-#B{color:white;
-   background-color:red;}
+
 
