@@ -21,6 +21,7 @@ body {background-color:black;
    }
 .E{width:250px;
    height:250px;
+   z-index:2;
 }
 
 #B{color:aqua;
