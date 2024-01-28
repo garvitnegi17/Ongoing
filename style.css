@@ -19,9 +19,10 @@
 }
 body {background-color:black;
    }
-.E{width:250px;
-   height:250px;
+.E{width:450px;
+   height:450px;
    z-index:2;
+   margin-top:750px;
 }
 
 #B{color:aqua;
