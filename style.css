@@ -12,10 +12,10 @@
 }
 .D{
   background-image: url('Background image.jpg');
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
   width:980px;
-   height:400px;
+   height:700px;
 }
 body {background-color:black;
    }
@@ -40,7 +40,7 @@ b{color:white;
  .overlay {
         content: '';
         width: 980px;
-        height: 500px;
+        height: 800px;
         position: absolute;
         z-index: 1;
         top: 0px;
