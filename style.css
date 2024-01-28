@@ -12,11 +12,11 @@
 }
 .D{
   background-image: url('Background image.jpg');
-  background-size: auto;
+  object-file:cover;
   background-repeat: no-repeat;
   width:980px;
    height:700px;
-}
+display:block;}
 body {background-color:black;
    }
 .E{width:450px;
@@ -48,3 +48,6 @@ b{color:white;
         left: 0;
         background: linear-gradient(to bottom,  rgba(255,255,255,0),rgba(255,255,255,0),rgba(255,255,255,0),  rgba(255,255,255,0),  rgba(255,255,255,0),rgb(0, 0, 0),rgb(0, 0, 0));
     }
+.J{height:700px;
+   width:980px;
+   overflow:hidden;}
