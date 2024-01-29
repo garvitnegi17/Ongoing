@@ -29,8 +29,8 @@ body {
 }
 
 .E {
-   width: 350px;
-   height: 350px;
+   width: 250px;
+   height: 250px;
    z-index: 2;
    position: absolute;
    top:700px;
