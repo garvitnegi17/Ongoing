@@ -36,24 +36,6 @@ body {
    top:700px;
 }
 
-#B {
-   color: aqua;
-   font-size: 80px;
-   font-family: Garamond;
-   margin-top: 350px;
-}
-
-#F {
-   color: white;
-   font-size: 40px;
-   font-family: arial;
-}
-
-b {
-   color: white;
-   font-size: 40px;
-   font-family: arial;
-}
 
 .overlay {
    content: '';
