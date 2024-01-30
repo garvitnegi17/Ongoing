@@ -29,11 +29,13 @@ body {
 }
 
 .E {
-   width: 250px;
-   height: 250px;
+   width: 200px;
+   height: 200px;
    z-index: 2;
    position: absolute;
-   top:650px;
+   top:600px;
+   radius:50%;
+   border:2px dashed orange;
 }
 
 
