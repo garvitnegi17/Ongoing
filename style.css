@@ -29,15 +29,25 @@ body {
 }
 
 .E {
-   width: 200px;
-   height: 200px;
+   width: 195px;
+   height: 195px;
    z-index: 2;
    position: absolute;
+   top:555px;
+   border-radius:50%;
+   
+   margin-left:15px;
+   
+  }
+#B{width:200px;
+   height:200px;
+   z-index:2;
+   position:absolute;
    top:550px;
    border-radius:50%;
-   border:10px dashed rgba(240, 128, 0,0.75)  ;
+   border:10px dashed rgba(240, 128,0,0.75) ;
    margin-left:10px;
-   box-shadow: 0 0 20px 10px rgba(240, 128, 0, 0.5);
+   box-shadow: 0 0 20px 10px rgba(240, 128,0,0.5) ;
   }
 
 
