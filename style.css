@@ -33,9 +33,9 @@ body {
    height: 200px;
    z-index: 2;
    position: absolute;
-   top:600px;
+   top:550px;
    border-radius:50%;
-   border:2px dashed orange;
+   border:10px dashed orange;
    margin-left:10px;
 }
 
