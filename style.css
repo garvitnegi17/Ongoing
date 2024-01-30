@@ -35,7 +35,7 @@ body {
    position: absolute;
    top:550px;
    border-radius:50%;
-   border:10px dashed #F08000;
+   border:10px dashed rgbA(240, 128, 0,1)  ;
    margin-left:10px;
 }
 
