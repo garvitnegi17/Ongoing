@@ -35,7 +35,7 @@ body {
    position: absolute;
    top:550px;
    border-radius:50%;
-   border:10px dashed rgba(240, 128, 0,0.5)  ;
+   border:10px dashed rgba(240, 128, 0,0.75)  ;
    margin-left:10px;
    box-shadow: 0 0 20px 10px rgba(240, 128, 0, 0.5);
   }
