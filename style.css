@@ -34,7 +34,7 @@ body {
    z-index: 2;
    position: absolute;
    top:600px;
-   radius:50%;
+   border-radius:50%;
    border:2px dashed orange;
 }
 
