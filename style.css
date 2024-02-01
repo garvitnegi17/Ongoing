@@ -104,3 +104,19 @@ body {
       height:11vh;
    }
 }
+b{
+    text-align:left;
+    font-size:50px; 
+    font-family:roboto, arial;
+    
+  }
+  #Name{
+        font-size:40px;
+         
+  }
+  p1{
+    font-size:30px;
+  }
+  #Capital{
+     font-size:40px;
+  }
