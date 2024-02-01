@@ -97,23 +97,35 @@ body {
    float:right;
    right: 45px;
    border-radius: 50%;
-   padding: 20px;
-   border: 5px groove aqua;
+   padding: 0px;
+   border: 5px solid aqua;
+   animation-name: glow;
+   animation-duration: 5s;
+   animation-iteration-count: infinite;
+}
+@keyframes glow{
+   0%{
+      box-shadow: 0px 0px 0px rgb(0, 255, 255);
+   }
+   50%{
+      box-shadow: 0px 0px 50px rgb(0, 255, 255);
+   }
+   100%{
+      box-shadow: 0px 0px 0px rgb(0, 255, 255);
+   }
 }
 @media(min-width:1000px){
    .garvit{
-      height:11vh;
+      margin-top: -100px;
    }
 }
 b{
     text-align:left;
-    font-size:50px; 
-    font-family:roboto, arial;
+    font-size:50px;
     
   }
   #Name{
         font-size:40px;
-         
   }
   p1{
     font-size:30px;
@@ -121,3 +133,6 @@ b{
   #Capital{
      font-size:40px;
   }
+.font{
+   font-family: 'Times New Roman', Times, serif;
+}
