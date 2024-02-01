@@ -98,6 +98,7 @@ body {
    right: 45px;
    border-radius: 50%;
    padding: 20px;
+   border: 5px groove aqua;
 }
 @media(min-width:1000px){
    .garvit{
