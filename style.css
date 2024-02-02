@@ -124,15 +124,15 @@ b{
     font-size:50px;
     
   }
-  #Name{
+ /* #Name{
         font-size:40px;
-  }
-  p1{
+  }*/
+  p{
     font-size:30px;
   }
-  #Capital{
+  /*#Capital{
      font-size:40px;
-  }
+  }*/
 .font{
    font-family: 'Times New Roman', Times, serif;
 }
