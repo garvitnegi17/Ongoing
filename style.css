@@ -136,3 +136,9 @@ body {
 .font{
    font-family: 'Times New Roman', Times, serif;
 }
+#line{
+   border:2px solid white;
+   width:70vw;
+   background-color:white;
+   height:2px;
+}
