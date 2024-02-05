@@ -142,3 +142,47 @@ body {
    background-color:white;
    height:2px;
 }
+.button{
+    margin-left:50%;
+    transform:translate(-50%);
+    padding:20px 50px 20px 50px;
+    border:5px solid aqua;
+    border-radius:100px;
+    font-size:30px;
+    margin-top:20px;
+    box-shadow:0px 0px 25px aqua;
+    overflow:hidden;
+    background: conic-gradient(from 0.25turn at 50% 30%, #f69d3c, 10deg, #3f87a6, 350deg, #ebf8e1);
+    transition-duration:0.5s;
+      }
+    .button a{
+      text-decoration:none;
+      color:#FFFDD0; 
+      font-weight:bold;
+      transition-duration:0.5s;
+       }
+    .animation{
+      background-color:#FDF4E3;
+      z-index:-10;
+      width:100px;
+      height:100px;
+      margin-top:45px;
+      margin-left:20px;
+      position:absolute;
+      transform:rotate(45deg);
+      box-shadow:0px 0px 25px aqua ;
+      border:2px groove aqua;
+      transition-duration:0.5s;
+      }
+      .button:hover .animation{
+        background-color:violet;
+        margin-top:-113px;
+        margin-left:27px;
+         }
+      .button:hover a{
+        color:black;
+        letter-spacing:0.1rem;
+      }
+      .button:hover{
+        box-shadow:0px 0px 50px aqua;
+      }
