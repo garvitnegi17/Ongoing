@@ -152,36 +152,39 @@ body {
     margin-top:20px;
     box-shadow:0px 0px 25px aqua;
     overflow:hidden;
-    background: conic-gradient(skyblue,cyan,yellow,skyblue);
+    background: conic-gradient(skyblue,blue,skyblue);
     transition-duration:0.5s;
       }
     .button a{
       text-decoration:none;
-      color:#E7F2F8; 
+      color: white;
       font-weight:bolder;
       transition-duration:0.5s;
+      -webkit-filter: drop-shadow(7px 7px 7px rgb(0, 0, 0));
+    filter: drop-shadow(7px 7px 7px rgb(0, 0, 0));
        }
     .animation{
       background-color:#FDF4E3;
       z-index:-10;
       width:100px;
       height:100px;
-      margin-top:18%;
-      transform:rotate(45deg);
-      margin-left:29%;
       position: absolute;
       box-shadow:0px 0px 25px aqua ;
       border:2px groove aqua;
       transition-duration:0.5s;
+      left:50%;
+      margin-top: 50px;
+      transform: translate(-50%) rotate(45deg);
       }
       .button:hover .animation{
         background-color:violet;
-        margin-top:-24%;
-        margin-left:29%;
+        margin-top:-17%;
          }
       .button:hover a{
-        color:black;
-        letter-spacing:0.2rem;
+        color:rgb(0, 0, 0);
+        letter-spacing:0.1rem;
+        -webkit-filter: drop-shadow(7px 7px 7px rgb(255, 255, 255));
+      filter: drop-shadow(7px 7px 7px rgb(255, 255, 255));
       }
       .button:hover{
         box-shadow:0px 0px 50px aqua;
