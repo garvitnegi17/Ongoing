@@ -166,7 +166,7 @@ body {
       z-index:-10;
       width:100px;
       height:100px;
-      margin-top:22px;
+      margin-top:18%;
       transform:rotate(45deg);
       margin-left:29%;
       position: absolute;
@@ -176,7 +176,7 @@ body {
       }
       .button:hover .animation{
         background-color:violet;
-        margin-top:-23px;
+        margin-top:-23%;
         margin-left:29%;
          }
       .button:hover a{
