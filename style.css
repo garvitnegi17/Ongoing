@@ -158,7 +158,7 @@ body {
     .button a{
       text-decoration:none;
       color:#E7F2F8; 
-      font-weight:bold;
+      font-weight:bolder;
       transition-duration:0.5s;
        }
     .animation{
@@ -166,7 +166,7 @@ body {
       z-index:-10;
       width:100px;
       height:100px;
-      margin-top:18px;
+      margin-top:22px;
       transform:rotate(45deg);
       margin-left:29%;
       position: absolute;
