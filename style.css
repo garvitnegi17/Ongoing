@@ -186,3 +186,36 @@ body {
       .button:hover{
         box-shadow:0px 0px 50px aqua;
       }
+      .skillsstyle{
+        border:5px solid #FFE5B4 ;
+        padding:10px;
+        border-radius:100px;
+        margin-top:7%;
+        font-size:40px;
+        width:25%;
+        float:left;
+        margin-left:3%;
+        text-align:center;
+        box-shadow:0px 0px 25px #FFE5B4  ;
+        background-color:white;
+        background:linear-gradient(45deg, skyblue, 
+        #20a7db,#9F9FFF);
+        
+        
+      }
+      .skillsstyle .skills{
+          color:white;
+          font-family:times new roman;
+          text-decoration:none;
+          font-weight:bolder;
+          
+      }
+      #logo{
+          width:10%;
+          height:10%;
+          border-radius:50%;
+          margin-top:5%;
+          margin-left:2%;
+          border:5px solid  #FFE5B4 ;
+          box-shadow:0px 0px 25px #FFE5B4;
+      }
