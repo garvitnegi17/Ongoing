@@ -157,7 +157,7 @@ body {
       }
     .button a{
       text-decoration:none;
-      color:#FFFDD0; 
+      color:#E7F2F8; 
       font-weight:bold;
       transition-duration:0.5s;
        }
@@ -166,9 +166,9 @@ body {
       z-index:-10;
       width:100px;
       height:100px;
-      margin-top:47px;
+      margin-top:18px;
       transform:rotate(45deg);
-      margin-left:18%;
+      margin-left:29%;
       position: absolute;
       box-shadow:0px 0px 25px aqua ;
       border:2px groove aqua;
@@ -176,12 +176,12 @@ body {
       }
       .button:hover .animation{
         background-color:violet;
-        margin-top:-111px;
-        margin-left:18%;
+        margin-top:-23px;
+        margin-left:29%;
          }
       .button:hover a{
         color:black;
-        letter-spacing:0.1rem;
+        letter-spacing:0.2rem;
       }
       .button:hover{
         box-shadow:0px 0px 50px aqua;
