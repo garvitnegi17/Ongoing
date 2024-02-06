@@ -152,7 +152,7 @@ body {
     margin-top:20px;
     box-shadow:0px 0px 25px aqua;
     overflow:hidden;
-    background: conic-gradient(from 0.25turn at 50% 30%, #f69d3c, 10deg, #3f87a6, 350deg, #ebf8e1);
+    background: conic-gradient(skyblue,cyan,yellow,skyblue);
     transition-duration:0.5s;
       }
     .button a{
@@ -199,8 +199,7 @@ body {
         box-shadow:0px 0px 25px #FFE5B4  ;
         background-color:white;
         background:linear-gradient(45deg, skyblue, 
-        #20a7db,#9F9FFF);
-        
+         #20a7db,#9F9FFF);
         
       }
       .skillsstyle .skills{
