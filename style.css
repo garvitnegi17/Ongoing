@@ -189,7 +189,7 @@ body {
       .button:hover{
         box-shadow:0px 0px 50px aqua;
       }
-      .skillsstyle{
+      /*.skillsstyle{
         border:5px solid #FFE5B4 ;
         padding:10px;
         border-radius:100px;
@@ -220,4 +220,4 @@ body {
           margin-left:2%;
           border:5px solid  #FFE5B4 ;
           box-shadow:0px 0px 25px #FFE5B4;
-      }
+      }*/
