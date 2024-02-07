@@ -269,3 +269,28 @@ body {
         box-shadow:0px 0px 5px white;
         
       }
+    .skills2{
+        color:white;
+          font-family:times new roman;
+          text-decoration:none;
+          font-weight:bolder;
+          margin-left:9%;
+          font-size:45px;
+          margin-top:-3%;
+      }
+     .skillsstyle2{
+       border:5px solid #FFE5B4 ;
+        padding:3px;
+       
+        border-radius:100px;
+        margin-top:1%;
+        
+        width:60%;
+        float:left;
+        margin-left:3%;
+        text-align:center;
+        box-shadow:0px 0px 25px #FFE5B4  ;
+        background-color:white;
+        background:linear-gradient(45deg, skyblue, #20a7db,#9F9FFF);
+        
+     }
