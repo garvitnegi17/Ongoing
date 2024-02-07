@@ -17,7 +17,7 @@
 }
 
 .D {
-   background-image: url('Background image New.jpg ');
+   background-image: url('Background Image.jpeg ');
    background-size: cover;
    width: 100vw;
    height: 700px;
@@ -46,7 +46,7 @@ body {
    position:absolute;
    top:550px;
    border-radius:50%;
-   border:10px dashed rgba(240, 128,0,0.75) ;
+   border:10px dashed white ;
    margin-left:30px;
    box-shadow: 0 0 20px 10px white ;
 }
@@ -63,7 +63,7 @@ body {
 #B {
   width: 200px;
   height: 200px;
-  border: 10px dashed rgba(240, 128, 0,0.75);
+  border: 10px dashed white;
   border-radius: 50%;
   animation: moveCircle 10s linear infinite;
 }
