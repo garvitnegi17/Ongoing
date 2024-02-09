@@ -313,6 +313,23 @@ body {
        
      }
      .programming{
-       font-size:40px;
-       font-family:times new roman;
-     }
+       width:150px;
+       height:150px;
+       border-radius:50%;
+       margin-top:-4%;
+       }
+       .programming2{
+         border-radius:50%;
+         margin-top:3px;
+         width:95px;
+         height:95px;
+        ;
+       }
+       .box{
+        
+         height:100px;
+         width:400px;
+         display:flex;
+         justify-content:space-evenly;
+         
+       }
