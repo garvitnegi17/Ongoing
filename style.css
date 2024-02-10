@@ -326,10 +326,8 @@ body {
         ;
        }
        .box{
-        
          height:100px;
          width:400px;
          display:flex;
          justify-content:space-evenly;
-         
-       }
+        }
