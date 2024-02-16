@@ -466,6 +466,13 @@ li {
    animation-iteration-count: infinite;
    animation-timing-function: ease-in-out;
 }
+#icon1{
+   background-color:white;
+   border-radius:25px;
+   border:2px solid white;
+   box-shadow:0px 0px 100px white;
+   
+}
 #icon2{
    animation-delay: 2s;
    background-color:white;
