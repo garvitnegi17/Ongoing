@@ -487,3 +487,9 @@ li {
    }
 }
        
+#head{
+ font-size:50px;
+ text-align:center;
+ color:white;
+ font-family:times new roman;
+}
