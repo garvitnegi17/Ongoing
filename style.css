@@ -531,4 +531,6 @@ li {
    float: center;
    border: 2px solid white;
    box-shadow: 0px 0px 30px white;
+   font-family: times new roman;
+   font-size: 45px;
 }
