@@ -544,3 +544,77 @@
    justify-content: space-evenly;
 
  }
+ #underline{
+   border: 5px solid #FFE5B4;
+    padding: 3px;
+ 
+    border-radius: 100px;
+    margin-top: 0%;
+ 
+    width: 32%;
+    float: left;
+    margin-left: 3%;
+    text-align: center;
+    box-shadow: 0px 0px 25px #FFE5B4;
+    background-color: white;
+    background: linear-gradient(45deg, skyblue,
+          #20a7db, #9F9FFF);
+ }
+ #computer{
+   background-color: white;
+   border-radius: 25%;
+ }
+ #projects{
+   margin-top: 1%;
+   
+ }
+ #game{
+  margin-left: 0%; 
+ }
+ .project{
+   display: flex;
+   justify-content: space-evenly;
+   }
+   #html{
+      font-size: 55px;
+      font-weight: bolder;
+      color: #FF7034;
+   }
+   #css{
+      font-size: 55px;
+      font-weight: bolder;
+      color: #2965f1;
+   }
+   #java{
+      font-size: 55px;
+      font-weight: bolder;
+      color: #F0DB4F;
+   }
+   #game{
+      margin-top: -3.5%;
+      
+   }
+  
+#narungi{
+   height: 4px;
+   width: 200px;
+   background-color: #FF7034;
+   margin-left: 3%;
+ }
+ #neela{
+   height: 4px;
+   width: 130px;
+   background-color: #2965f1;
+   margin-left: 33%;
+ }
+ #peela{
+   height: 4px;
+   width: 300px;
+   background-color: #F0DB4F; 
+   margin-left: 53%;
+ }
+
+ 
+   
+   
+ 
