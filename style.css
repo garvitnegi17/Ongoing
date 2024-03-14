@@ -595,24 +595,34 @@
       
    }
   
-#narungi{
+/*#narungi{
    height: 4px;
-   width: 200px;
+   width: 28vw;
    background-color: #FF7034;
    margin-left: 3%;
  }
  #neela{
    height: 4px;
-   width: 130px;
+   width: 28vw;
    background-color: #2965f1;
    margin-left: 33%;
  }
  #peela{
    height: 4px;
-   width: 300px;
+   width: 28vw;
    background-color: #F0DB4F; 
    margin-left: 53%;
  }
+.under{
+   display: flex;
+   justify-content: space-evenly;
+   background-color: white;
+   width: 75vw;
+   margin-left: 5%;
+   transform: translate(-50%);
+
+}*/
+
 
  
    
