@@ -548,7 +548,7 @@ li {
    width: 80vw;
    background: linear-gradient(-90deg, #DB2763, #B0DB43);
    border-radius: 25%;
-   margin-top: 5%;
+   margin-top: 345px;
    margin-left: 50%;
    transform: translate(-50%);
 }
@@ -563,54 +563,121 @@ li {
    transform: translate(-50%);
    margin-top: 10px;
    text-align: center;
+   padding-bottom: 30px;
 }
 
 #footer {
    padding-top: 5%;
+   padding-bottom: 40px;
+   background-color: rgba(rgba(134, 134, 134, 0));
+   backdrop-filter: blur(5%);
 }
 
 #box5 {
-   background-color: #20a7db;
    width: 100vw;
-   height: 500px;
-   margin-top: 0px;
+   height: 300px;
+   z-index: -10;
+   position: absolute;
+   overflow: hidden;
 }
 
 #circle {
    width: 50px;
    height: 50px;
    border-radius: 50%;
-   background-image: radial-gradient(yellow, orange, red);
-   animation-name: ball;
+   box-shadow: 0px 0px 50px #d0ef05;
+   background-image: conic-gradient(#c6ffdd, #fbd786, #f7797d, #fbd786, #c6ffdd);
    animation-duration: 5s;
    animation-iteration-count: infinite;
    animation-timing-function: ease-in-out;
    animation-direction: normal;
+   z-index: -30;
+   border: 2px solid antiquewhite;
+}
+
+.container {
+   width: 35vw;
+   position: absolute;
+   animation-duration: 5s;
+   animation-iteration-count: infinite;
+   animation-name: rotate;
+   animation-timing-function: linear;
+   rotate: 90deg;
+   bottom: 0;
+   left: -17vw;
+   z-index: -30;
+}
+
+@keyframes rotate {
+   0% {
+      transform: rotate(0deg);
+      margin-left: 0vw;
+   }
+
+   12.5% {
+      transform: rotate(90deg);
+      margin-left: 20vw;
+   }
+
+   25% {
+      transform: rotate(0deg);
+      margin-left: 50vw;
+   }
+
+   37.7% {
+      transform: rotate(90deg);
+      margin-left: 70vw;
+   }
+
+   50% {
+      transform: rotate(0deg);
+      margin-left: 95vw;
+   }
+
+   62.5% {
+      transform: rotate(-90deg);
+      margin-left: 75vw;
+   }
+
+   75% {
+      transform: rotate(0deg);
+      margin-left: 45vw;
+   }
+
+   87.5% {
+      transform: rotate(90deg);
+      margin-left: 20vw;
+   }
+
+   100% {
+      transform: rotate(0deg);
+      margin-left: 0vw;
+   }
 }
 
 @keyframes ball {
    0% {
-      top: 0%;
-      left: 0%;
+      margin-top: 0%;
+      margin-left: 0%;
    }
 
    25% {
-      bottom: 0%;
-      left: 50%;
+      margin-bottom: 0%;
+      margin-left: 50%;
    }
 
    50% {
-      bottom: 50%;
-      right: 0%;
+      margin-bottom: 50%;
+      margin-right: 0%;
    }
 
    75% {
-      left: 50%;
-      top: 0%;
+      margin-left: 50%;
+      margin-top: 0%;
    }
 
    100% {
-      top: 0%;
-      left: 0%;
+      margin-top: 0%;
+      margin-left: 0%;
    }
 }
