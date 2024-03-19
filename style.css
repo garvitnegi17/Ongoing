@@ -655,7 +655,7 @@ li {
    }
 }
 
-#arrow{
+#arrow {
    height: 50px;
    width: 50px;
    background-color: white;
@@ -666,7 +666,7 @@ li {
    background-image: radial-gradient(grey, white);
 }
 
-#horizontal{
+#horizontal {
    height: 4px;
    width: 20px;
    border-radius: 75px;
@@ -674,32 +674,34 @@ li {
    margin-top: 55%;
    background-color: black;
    border: 20px, solid, white;
-   }
-   #slanting{
-      height: 5px;
-      width: 22px;
-      border-radius: 75px;
-      background-color: black;
-      transform: rotate(135deg);
-      margin-left: 36%;
-      margin-top:-23%;
-   }
-   #arrow1{
-      height: 4px;
-      width: 15px;
-      border-radius: 75px;
-      background-color: black;
-      margin-top: -22.9%;
-      margin-left: 42%; 
-   }
-   #arrow2{
-      height: 4px;
-      width: 15px;
-      border-radius: 75px;
-      background-color: black;
-      margin-top: 5.9%;
-      margin-left: 57%; 
-      transform: rotate(90deg);
-      z-index: -10;
-   }
+}
 
+#slanting {
+   height: 5px;
+   width: 22px;
+   border-radius: 75px;
+   background-color: black;
+   transform: rotate(135deg);
+   margin-left: 36%;
+   margin-top: -23%;
+}
+
+#arrow1 {
+   height: 4px;
+   width: 15px;
+   border-radius: 75px;
+   background-color: black;
+   margin-top: -22.9%;
+   margin-left: 42%;
+}
+
+#arrow2 {
+   height: 4px;
+   width: 15px;
+   border-radius: 75px;
+   background-color: black;
+   margin-top: 5.9%;
+   margin-left: 57%;
+   transform: rotate(90deg);
+   z-index: -10;
+}
