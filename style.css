@@ -510,8 +510,8 @@ li {
 }
 
 #planet {
-   font-size: 40px;
-   font-family: papyrus;
+   font-size: 91px;
+   font-family: "Silkscreen", sans-serif;
    margin-top: 3.5%;
 }
 
@@ -521,14 +521,14 @@ li {
 }
 
 #box3 {
-   background-color: rgba(72, 205, 231, 0.06);
-   height: 650px;
-   border-radius: 15%;
+   background-color: rgba(113, 116, 116, 0.06);
+   height: 670px;
+   border-radius: 15px;
    padding-top: 70%;
    padding-left: 5%;
    padding-right: 5%;
-   box-shadow: 0px 0px 10px aquamarine;
-   border: 2px solid aquamarine;
+   box-shadow: 0px 0px 10px white;
+   border: 2px solid white;
    margin-top: 1%;
 }
 
@@ -540,7 +540,8 @@ li {
    border-radius: 5%;
    text-align: center;
    margin-top: 3%;
-   padding: 1%;
+   padding: 4%;
+   height: 550px;
 }
 
 #part {
@@ -658,9 +659,20 @@ li {
 #arrow {
    height: 50px;
    width: 50px;
-   background-color: white;
-   float: right;
+   background-image: radial-gradient(grey, white);
    border-radius: 50%;
-   margin-right: 25%;
+   margin-left: 50%;
+   transform: translate(-50%);
+   margin-top: -8%;
+   z-index: -10;
 }
+/*#horizontal{
+   background-color: black;
+   height: 6px;
+   width: 20px;
+   border-radius: 15%;
+   margin-top: -5%;
+   margin-left: 44%;
+   z-index: 10;
+}*/
 
