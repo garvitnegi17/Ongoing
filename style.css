@@ -473,6 +473,7 @@ li {
 
 #projects {
    margin-top: 1%;
+   height: 1600px;
 
 }
 
@@ -522,7 +523,7 @@ li {
 
 #box3 {
    background-color: rgba(113, 116, 116, 0.06);
-   height: 670px;
+   height: 850px;
    border-radius: 15px;
    padding-top: 70%;
    padding-left: 5%;
@@ -541,7 +542,7 @@ li {
    text-align: center;
    margin-top: 3%;
    padding: 4%;
-   height: 550px;
+   height: 580px;
 }
 
 #part {
@@ -707,4 +708,5 @@ li {
    font-weight: bolder;
    float: right;
    margin-top: -9%;
+   margin-right: -2%;
 }
