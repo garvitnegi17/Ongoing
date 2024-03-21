@@ -541,7 +541,7 @@ li {
    border-radius: 5%;
    text-align: center;
    margin-top: 3%;
-   padding: 4%;
+   padding: 8%;
    height: 580px;
 }
 
@@ -662,7 +662,7 @@ li {
    background-image: radial-gradient(grey, white);
    border-radius: 50%;
    margin-left: 47%;
-   margin-top: -8%;
+   margin-top: -9%;
    overflow: hidden;
 }
 
