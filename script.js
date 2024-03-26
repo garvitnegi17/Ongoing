@@ -75,3 +75,59 @@
 
 //companies.splice(6, 0, "Amazon");
 //console.log(companies);
+
+//ARRow Function
+
+//const arrowMul = (a, b) => {
+  //console.log(a * b)
+
+ // function countVowels(str) {
+  //  let count = 0;
+    //for (const char of str) {
+      //if(char === "a" || char === "e" || char ==="i" || char === "o" || char === "u") {
+        //count++;
+      //}
+    //}
+    //console.log(count);
+//}
+
+//let nums = [2, 3 , 4, 5, 6];
+
+//nums.forEach((num) => {
+  //console.log(num * num);
+//});
+
+//let arr = [1, 2, 3, 4, 5, 6, 7];
+
+ //let Evenval = arr.filter((val) => {
+ //   return val % 2 === 0;
+//});
+//console.log(Evenval);
+
+//practice 
+
+//let marks = [97, 64, 32, 49, 99, 96, 86];
+
+//let highestMarks = marks.filter((val) => {
+  //return val > 90;
+//});
+//console.log(highestMarks);
+
+//let n = prompt("enter a number : ");
+
+//let arr = [];
+//for (let i = 1; i<=n; i++ ) {
+//  arr[i-1] = i;
+//}
+//console.log(arr);
+
+//let sum = arr.reduce((pre, curr) => {
+  //return pre * curr;
+//})
+//console.log(sum);
+
+
+
+
+
+
